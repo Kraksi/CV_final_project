@@ -1,0 +1,32 @@
+# Visual Studio Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache файлы
+__pycache__/
+*.py[cod]
+
+# Файлы сессии Jupyter
+*.ipynb_checkpoints
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+
+# Конфигурации среды и локальные зависимости (если используете виртуальные окружения)
+.env
+.venv/
+env/
+venv/
+
+# Файлы с настройками системы
+.DS_Store
+
+# pipenv
+Pipfile.lock
+
+# JupyterLab workspace
+.jupyter/lab/workspaces/
